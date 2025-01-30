@@ -74,7 +74,7 @@ logo = f"""{R}━━━━━━━━━━━━━━━━━━━━━━
 #__________________________________________#
 xuid = str(uuid.uuid4())
 #__________________________________________#
-def main(): '\033[1;91m'.
+def main(): '\033[1;91m'
     os.system('cls' if os.name == 'nt' else 'clear')
     print(logo)
     print(f'{age}1{pore}START TOKEN GETTER\n{age}2{pore}START UNLIMITED FILE MAKE WITH 1 ID\n{age}3{pore}REMOVE DUPLICATE\n{age}4{pore}REPORT BUG\n{age}5{pore}EXIT TERMINAL\n{line}')    
